@@ -14,9 +14,6 @@ Aplicación de escritorio desarrollada en Java con Swing que permite convertir v
 - Validación de entrada para evitar errores por datos no numéricos.
 - Implementado con diseño modular y uso de `JComboBox`, `JLabel`, `JButton` y `JTextField`.
 
-## Capturas de pantalla
-
-*(Aquí puedes añadir capturas de pantalla del programa en ejecución si lo deseas)*
 
 ## Requisitos
 
